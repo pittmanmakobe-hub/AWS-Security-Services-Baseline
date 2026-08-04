@@ -1,1 +1,0 @@
-# AWS-Security-Services-Baseline
